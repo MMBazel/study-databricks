@@ -5,6 +5,17 @@ Use the Databricks SQL service to complete introductory data analysis tasks
 
 ## Recommended Resources
 - Self-paced (available in Databricks Academy): Data Analysis With Databricks SQL
+By the end of this course you will be able to: 
+
+- Describe the core components that make up the Databricks Lakehouse Platform.
+- Navigate the Databricks SQL user-interface. 
+- Describe how Databricks SQL is used by data practitioners.
+- Create and manage SQL Warehouses in Databricks SQL.
+- Configure users and data access privileges in Databricks SQL. 
+- Create and configure Databricks SQL alert destinations in Databricks SQL. 
+- Create and run queries in Databricks SQL. 
+- Create visualizations and dashboards in Databricks SQL. 
+- Create alerts in Databricks SQL. 
 
 ---
 
