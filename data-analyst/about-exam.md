@@ -5,6 +5,7 @@ Use the Databricks SQL service to complete introductory data analysis tasks
 
 ## Recommended Resources
 - Self-paced (available in Databricks Academy): Data Analysis With Databricks SQL
+
 By the end of this course you will be able to: 
 
 - Describe the core components that make up the Databricks Lakehouse Platform.
