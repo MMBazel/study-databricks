@@ -73,3 +73,11 @@ Better price /performance
 - Once queries are built, DB SQL also allows analysts to make sense of the results through a wide variety of rich visualizations
 - The visualizations can be quickly organized into dashboards qith an intuitive drag-and-drop interface
 
+
+#### Sql Warehouses
+- SQL warehouses give a quick way to setup SQL & BI optimized compute
+- Just pick the cluster size
+- Offers central log so customers can record usage across virtual clusters, users, & time
+- Custoemrs can also observe workloads across Databricks SQL, 3rd party BI tools, & any other SQL clients
+
+![Screenshot 2023-11-10 at 3 22 28 PM](https://github.com/MMBazel/study-databricks/assets/3360070/f6fb870a-d18e-40b2-9b70-4bdb6e09a3e6)
