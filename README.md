@@ -15,3 +15,6 @@ Notes for studying for the Databricks Certifications
 
 ### Specialty Badges
 - GCP Platform Architect Badge
+
+### Course: Databricks Lakehouse
+- Databricks Lakehouse Fundamentals 
