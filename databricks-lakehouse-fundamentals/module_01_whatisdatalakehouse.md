@@ -10,6 +10,11 @@
 - Data collection drastically increased in volume, velocity, & variety
 - Data warehouses took too much time to process data & provide results & there was limited capability to handle data variety & velocity
 
+
+
+
+## Explain the challenges of managing and using big data.
+
 ### 2000s: Big data explosion
 - Structured, semi-structured, & unstructured data could live simultaneously, collected in the volumes & speeds necessary
 - Data created from many different sources such as web logs or sensor data, could be streamed into the data lake quickly & cheaply in low-cost cloud object stores
@@ -32,6 +37,8 @@
 - Data had to be copied between the systems & in some cases opied back, impacting oversight & data usage governance, not to mention the cost of storing the same information twice with disjointed systems
 - Successful AI implementation was difficult& actionable outcome rewuired data from multiple places
 
+
+## Why the data lake
 - Business needed a single, high-performing system to support the ever icnreasing use cases for data exploration, predictive modeling, & predictive analytics
 - Data teams needed systems to support data applications, including SQL analytics, real-time analysis, data science, & machine learning
 
@@ -42,6 +49,14 @@
 - Built on a data lake, a data lakehouse can store all data of any type together, becoming a single reliable source of truth, providing direct access for AI & BI together
 
 - Key features of a data lakehouse
-    - Transaction support: 
-
-## Explain the challenges of managing and using big data.
+    - Transaction support: Including ACID transactions for concurrent read/write interactions,
+    - Schema enforcement & governance: For data integrity & robust auditing needs
+    - Data governance: To support privacy regulation & data use metrics
+    - BI Support: To reduce latency between data & drawing insights
+    - Decoupled storage from compute: Meaning eahc operates on their own clusters, allowing them to scale independently to support specific needs
+    - Open storage formats: Such as Apache Parquet, which ar eopen & standardized, so a variety of tools & engines can access the data directly & efficiently
+    - Support for diverse data types: So a business can store, refine, analyze, & access semi-structured, structured data, all in one location
+    - Support for diverse workloads: Allowing a broad range of workloads such as data science, machine learning, and SQL analytics
+    - E2E Streaming: To use the same data repository & E2E streaming for reak-time reports removes the need for a separate system dedicated to real-time data applications
+ 
+- The lakehouse is the modern day version of the data warehouse, providing all the benefits and features without compromizing the flexibility in depth of a 
