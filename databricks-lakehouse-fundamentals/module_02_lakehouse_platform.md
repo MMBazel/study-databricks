@@ -1,4 +1,4 @@
-### Module 2: What is the Databricks Lakehouse Platform?
+# Module 2: What is the Databricks Lakehouse Platform?
 ---
 ## Describe fundamental concepts about the Databricks Lakehouse Platform.
 
